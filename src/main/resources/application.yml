@@ -1,0 +1,6 @@
+server:
+  port: 8800
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: none
